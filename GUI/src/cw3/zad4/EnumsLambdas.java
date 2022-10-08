@@ -22,18 +22,18 @@ public class EnumsLambdas {
                 new Person("Ola", Sex.F, Size.M, Country.PL),
         };
 
-        Comparator<Person> sexThenSize = Comparator.comparing(Person::getSex).thenComparing(Person::getSize);
-//        Comparator<Person> sexThenSize = (Person p1, Person p2) -> {
-//            int sexCompare = p1.getSex().compareTo(p2.getSex());
-//            if(sexCompare != 0){
-//                return sexCompare;
-//            }
-//            return p1.getSize().compareTo(p2.getSize());
-//        } ;
+//        Comparator<Person> sexThenSize = Comparator.comparing(Person::getSex).thenComparing(Person::getSize);
+        Comparator<Person> sexThenSize = (p1, p2) -> {
+            int sexCompare = p1.getSex().compareTo(p2.getSex());
+            if(sexCompare != 0){
+                return sexCompare;
+            }
+            return p1.getSize().compareTo(p2.getSize());
+        } ;
         Arrays.sort(persons, sexThenSize);
         printArray("Persons by sex and then size", persons);
         Arrays.sort(persons, Comparator.comparing(Person::getSize).thenComparing(Person::getName));
-//        Arrays.sort(persons, (Person p1, Person p2) -> {
+//        Arrays.sort(persons, (p1, p2) -> {
 //            int sizeCompare = p1.getSize().compareTo(p2.getSize());
 //            if(sizeCompare != 0){
 //                return sizeCompare;
@@ -42,10 +42,10 @@ public class EnumsLambdas {
 //        } );
         printArray("Persons by size and then name", persons);
         Country[] countries = Country.values();
-        Arrays.sort(countries, Comparator.comparing(Country::name));
-//        Arrays.sort(countries, (Country c1, Country c2) ->{
-//            return c1.name().compareTo(c2.name());
-//        });
+        Arrays.sort(countries, Comparator.comparing(Enum::name));
+//        Arrays.sort(countries, (c1, c2) ->
+//             c1.name().compareTo(c2.name())
+//        );
         printArray("Countries by name", countries);
     }
 }

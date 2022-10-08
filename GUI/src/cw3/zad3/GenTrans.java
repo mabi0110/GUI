@@ -25,7 +25,7 @@ public class GenTrans {
         });
         System.out.println(Arrays.toString(cout));
         String[] sout = new String[sin.length];
-        transform(sin, sout, (String s) -> s.toUpperCase());
+        transform(sin, sout, s -> s.toUpperCase());
         System.out.println(Arrays.toString(sout));
     }
 }

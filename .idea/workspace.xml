@@ -2,24 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac792f84-0b8d-4359-ab2d-84d765517bac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/Func.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/G.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/InterF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad2/FunDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad2/Parabola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad3/LenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad3/SFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad3/StringFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/ChoryNaDyspepsje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/ChoryNaGlowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/ChoryNaNoge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/Pacjent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GUI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/ColComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/ColorComparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColorCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad3/GenTrans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad3/StrToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad3/Transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad4/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad4/EnumsLambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad4/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad4/Size.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -51,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Battleship",
+    "last_opened_file_path": "D:/pulpit/GUI",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -59,19 +55,46 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="cw3.zad2" />
       <recent name="cw3.zad1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pulpit\GUI\GUI\src\cw3\zad1oldVersion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringFilter">
-    <configuration name="InterF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw2.zad1.InterF" />
+  <component name="RunManager" selected="Application.EnumsLambdas">
+    <configuration name="ColorComparing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw3.zad2.ColorComparing" />
       <module name="GUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw2.zad1.*" />
+          <option name="PATTERN" value="cw3.zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumsLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw3.zad4.EnumsLambdas" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw3.zad4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenTrans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw3.zad3.GenTrans" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw3.zad3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,19 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw3.zad1.Test" />
-      <module name="GUI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw3.zad1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="app" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="cw1.zad1.Main" />
       <module name="GUI" />
@@ -127,17 +137,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.app" />
-      <item itemvalue="Application.InterF" />
+      <item itemvalue="Application.ColorComparing" />
+      <item itemvalue="Application.EnumsLambdas" />
+      <item itemvalue="Application.GenTrans" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StringFilter" />
-      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumsLambdas" />
+        <item itemvalue="Application.GenTrans" />
+        <item itemvalue="Application.ColorComparing" />
         <item itemvalue="Application.StringFilter" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.InterF" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>

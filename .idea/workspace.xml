@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac792f84-0b8d-4359-ab2d-84d765517bac" name="Changes" comment="" />
+    <list default="true" id="ac792f84-0b8d-4359-ab2d-84d765517bac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/Func.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad1/InterF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad2/FunDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad2/Parabola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad3/LenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad3/SFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw2/zad3/StringFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/ChoryNaDyspepsje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/ChoryNaGlowe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/ChoryNaNoge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/Pacjent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/cw3/zad1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GUI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F1vRRqo8Eb2hH1tAGZmof38Udf" />
   <component name="ProjectViewState">
@@ -15,9 +49,98 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Battleship",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cw3.zad1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pulpit\GUI\GUI\src\cw3\zad1oldVersion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringFilter">
+    <configuration name="InterF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw2.zad1.InterF" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw2.zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw2.zad2.Main" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw2.zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw2.zad3.StringFilter" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw2.zad3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw3.zad1.Test" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw3.zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cw1.zad1.Main" />
+      <module name="GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.app" />
+      <item itemvalue="Application.InterF" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StringFilter" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringFilter" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InterF" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,5 +151,16 @@
       <updated>1663672398957</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

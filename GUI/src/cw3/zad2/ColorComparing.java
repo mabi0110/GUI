@@ -13,14 +13,17 @@ public class ColorComparing {
                 new MyColor( 10,255, 10)
         );
         System.out.println(list);
-//        Collections.sort(list);
-//        System.out.println(list);
+        Collections.sort(list);
+        System.out.println(list);
         Collections.sort(list, new MyColorCompare(ColComponent.RED));
         System.out.println(list);
         Collections.sort(list, new MyColorCompare(ColComponent.GREEN));
         System.out.println(list);
         Collections.sort(list, new MyColorCompare(ColComponent.BLUE));
         System.out.println(list);
+
     }
+
+
 
 }

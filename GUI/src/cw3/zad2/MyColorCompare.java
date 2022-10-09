@@ -4,7 +4,7 @@ import java.util.Comparator;
 
 
 public class MyColorCompare implements Comparator<MyColor>{
-    private final ColComponent colComponent;
+    private ColComponent colComponent;
 
     public MyColorCompare(ColComponent colComponent) {
         this.colComponent = colComponent;
@@ -19,4 +19,5 @@ public class MyColorCompare implements Comparator<MyColor>{
         }
         return Integer.compare(o1.getGreen(), o2.getGreen());
     }
+
 }

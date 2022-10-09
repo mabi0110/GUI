@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac792f84-0b8d-4359-ab2d-84d765517bac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI/src/ass1/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/ass1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/ass1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GUI/src/ass1/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad3/GenTrans.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad3/GenTrans.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad4/EnumsLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad4/EnumsLambdas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GUI/cw3/zad4/EnumsLambdas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI/cw3/zad4/EnumsLambdas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad2/ColorComparing.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/ColorComparing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColorCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/ColorComparing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/ColorComparing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColorCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColorCompare.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="D:\pulpit\GUI\GUI\src\cw3\zad1oldVersion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ass1.Main">
+  <component name="RunManager" selected="Application.ColorComparing">
     <configuration name="ColorComparing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw3.zad2.ColorComparing" />
       <module name="GUI" />
@@ -140,10 +139,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ColorComparing" />
         <item itemvalue="Application.ass1.Main" />
         <item itemvalue="Application.EnumsLambdas" />
         <item itemvalue="Application.GenTrans" />
-        <item itemvalue="Application.ColorComparing" />
         <item itemvalue="Application.StringFilter" />
       </list>
     </recent_temporary>

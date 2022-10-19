@@ -49,7 +49,7 @@
       <recent name="D:\pulpit\GUI\GUI\src\cw3\zad1oldVersion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RetLambda">
+  <component name="RunManager" selected="Application.cw5.zad2.Main">
     <configuration name="ColorComparing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw3.zad2.ColorComparing" />
       <module name="GUI" />
@@ -63,25 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumsLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw3.zad4.EnumsLambdas" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw5.zad1.Main" />
       <module name="GUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw3.zad4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenTrans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw3.zad3.GenTrans" />
-      <module name="GUI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw3.zad3.*" />
+          <option name="PATTERN" value="cw5.zad1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,21 +109,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cw5.zad2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw5.zad2.Main" />
+      <module name="GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw5.zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.app" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.cw5.zad2.Main" />
       <item itemvalue="Application.RetLambda" />
       <item itemvalue="Application.ass1.Main" />
       <item itemvalue="Application.ColorComparing" />
-      <item itemvalue="Application.EnumsLambdas" />
-      <item itemvalue="Application.GenTrans" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cw5.zad2.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.RetLambda" />
         <item itemvalue="Application.ColorComparing" />
         <item itemvalue="Application.ass1.Main" />
-        <item itemvalue="Application.EnumsLambdas" />
-        <item itemvalue="Application.GenTrans" />
       </list>
     </recent_temporary>
   </component>

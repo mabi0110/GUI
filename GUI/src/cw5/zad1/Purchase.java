@@ -1,5 +1,7 @@
 package cw5.zad1;
 
+import java.util.Objects;
+
 public class Purchase {
     private String name;
     private int price;
@@ -23,5 +25,25 @@ public class Purchase {
 
     public void setPrice(int price) {
         this.price = price;
+    }
+
+    @Override
+    public String toString() {
+        return name + " " + price;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Purchase purchase = (Purchase) o;
+
+        return Objects.equals(name, purchase.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return name != null ? name.hashCode() : 0;
     }
 }

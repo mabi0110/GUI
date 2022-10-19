@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac792f84-0b8d-4359-ab2d-84d765517bac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad2/ColorComparing.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/ColorComparing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/cw3/zad2/MyColorCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/ColorComparing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/ColorComparing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColorCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GUI/cw3/zad2/MyColorCompare.class" afterDir="false" />
-    </list>
+    <list default="true" id="ac792f84-0b8d-4359-ab2d-84d765517bac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +40,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="cw4.zad1" />
       <recent name="ass1" />
       <recent name="cw3.zad2" />
       <recent name="cw3.zad1" />
@@ -56,7 +49,7 @@
       <recent name="D:\pulpit\GUI\GUI\src\cw3\zad1oldVersion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ColorComparing">
+  <component name="RunManager" selected="Application.RetLambda">
     <configuration name="ColorComparing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw3.zad2.ColorComparing" />
       <module name="GUI" />
@@ -96,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw2.zad3.StringFilter" />
+    <configuration name="RetLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw4.zad1.RetLambda" />
       <module name="GUI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw2.zad3.*" />
+          <option name="PATTERN" value="cw4.zad1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,19 +124,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.app" />
+      <item itemvalue="Application.RetLambda" />
       <item itemvalue="Application.ass1.Main" />
       <item itemvalue="Application.ColorComparing" />
       <item itemvalue="Application.EnumsLambdas" />
       <item itemvalue="Application.GenTrans" />
-      <item itemvalue="Application.StringFilter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RetLambda" />
         <item itemvalue="Application.ColorComparing" />
         <item itemvalue="Application.ass1.Main" />
         <item itemvalue="Application.EnumsLambdas" />
         <item itemvalue="Application.GenTrans" />
-        <item itemvalue="Application.StringFilter" />
       </list>
     </recent_temporary>
   </component>

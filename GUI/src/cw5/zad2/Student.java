@@ -11,6 +11,10 @@ public class Student {
         this.points = points;
     }
 
+    public Student() {
+
+    }
+
     public String getFirstName() {
         return firstName;
     }

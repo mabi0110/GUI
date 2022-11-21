@@ -32,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/pulpit/GUI",
+    "last_opened_file_path": "D:/pulpit/JavaStart",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -50,7 +50,7 @@
       <recent name="D:\pulpit\GUI\GUI\src\cw3\zad1oldVersion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ass3.DiffLettWords">
+  <component name="RunManager" selected="Application.StreamMod">
     <configuration name="DiffLettWordsBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ass3.DiffLettWordsBasic" />
       <module name="GUI" />
@@ -133,9 +133,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamMod" />
         <item itemvalue="Application.ass3.DiffLettWords" />
         <item itemvalue="Application.DiffLettWordsBasic" />
-        <item itemvalue="Application.StreamMod" />
         <item itemvalue="Application.WithStreamsV2" />
         <item itemvalue="Application.WithStreams" />
       </list>
